@@ -1,2 +1,3 @@
 # espTREE-hardware
-hw
+
+ハードウェアのリポジトリ
